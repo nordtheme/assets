@@ -1,8 +1,8 @@
-<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/hero.svg?sanitize=true"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/heroes/logo_typography/spaced-github-markdown.svg?sanitize=true"/></a></p>
 
 <!--lint disable no-duplicate-headings no-duplicate-headings-in-section-->
 
-<p align="center"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separator.svg?sanitize=true" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer-github-markdown-spaced.svg?sanitize=true" /></p>
 
 <p align="center">Copyright &copy; 2016-present <a href="https://www.svengreb.de" target="_blank">Sven Greb</a></p>
 

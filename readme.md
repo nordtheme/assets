@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/hero.svg?sanitize=true"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com" target="_blank"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/heroes/logo_typography/spaced-github-markdown.svg?sanitize=true"/></a></p>
 
 <p align="center"><a href="https://github.com/nordtheme/assets/releases/latest" target="_blank"><img src="https://img.shields.io/github/release/nordtheme/assets.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://github.com/nordtheme/assets/blob/main/changelog.md" target="_blank"><img src="https://img.shields.io/github/release/nordtheme/assets.svg?style=flat-square&label=Changelog&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a></p>
 
@@ -6,7 +6,7 @@
 
 <p align="center">Assets for the <a href="https://www.nordtheme.com" target="_blank" alt="Nord">Nord</a> project.</p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separator.svg?sanitize=true" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/separators/iceberg/footer-github-markdown-spaced.svg?sanitize=true" /></p>
 
 <p align="center">Copyright &copy; 2016-present <a href="https://www.svengreb.de" target="_blank">Sven Greb</a></p>
 

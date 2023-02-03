@@ -20,8 +20,8 @@
   "scripts": {
     "format": "run-s format:pretty",
     "format:pretty": "prettier --write .",
-    "lint": "run-s lint:md lint:prettier",
-    "lint:ci": "run-p lint:md lint:ci:*",
+    "lint": "run-s --continue-on-error lint:md lint:prettier",
+    "lint:ci": "run-s --continue-on-error lint:md lint:ci:*",
     "lint:ci:pretty": "prettier --loglevel silent --check .",
     "lint:md": "remark --no-stdout .",
     "lint:prettier": "prettier --check .",
