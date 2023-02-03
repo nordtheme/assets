@@ -14,5 +14,7 @@
 # +--------+
 # + Assets +
 # +--------+
-*.ai binary
+# *-- Affinity Designer 2 --*
+*.afdesign binary
+*.jpg binary
 *.png binary
