@@ -5,4 +5,10 @@
 # See https://prettier.io/docs/en/ignore for more details.
 
 **/node_modules/*
-static/*
+# +--------+
+# + Binary +
+# +--------+
+# *-- Affinity Designer 2 --*
+**/*.afdesign binary
+**/*.jpg binary
+**/*.png binary
