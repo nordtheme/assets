@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://www.nordtheme.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/elements/heroes/logo-typography/spaced-github-markdown.svg?sanitize=true" />
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/logos/heroes/logo-typography/dark/frostic/nord3/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <source srcset="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/logos/heroes/logo-typography/light/frostic/nord6/spaced.svg?sanitize=true" width="100%" media="(prefers-color-scheme: dark)" />
+      <img src="https://raw.githubusercontent.com/nordtheme/assets/main/static/images/logos/heroes/logo-typography/dark/frostic/nord3/spaced.svg?sanitize=true" width="100%" />
+    </picture>
   </a>
 </p>
 
