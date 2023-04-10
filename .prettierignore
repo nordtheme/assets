@@ -4,11 +4,16 @@
 # Path match pattern to ignore (i.e. not reformat) certain files and folders.
 # See https://prettier.io/docs/en/ignore for more details.
 
-**/node_modules/*
 # +--------+
 # + Binary +
 # +--------+
 # *-- Affinity Designer 2 --*
 **/*.afdesign binary
+
 **/*.jpg binary
 **/*.png binary
+
+# +---------+
+# + Node.js +
+# +---------+
+node_modules/

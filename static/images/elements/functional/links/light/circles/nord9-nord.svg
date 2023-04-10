@@ -1,7 +1,7 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="32" cy="32" fill="#eceff4" r="32"/>
+  <circle cx="32" cy="32" fill="#eceff4" r="32" />
   <g fill="#81a1c1" fill-rule="nonzero">
-    <path d="m37.775 45.533-11.108-14.219v-3.946l12.311 15.917h6.616v-22.412h-11.127l-2.405-2.406h15.938v27.066z"/>
-    <path d="m26.225 18.467 11.108 14.219v3.945l-12.311-15.916h-6.616v22.412h11.127l2.405 2.406h-15.938v-27.066z"/>
+    <path d="m37.775 45.533-11.108-14.219v-3.946l12.311 15.917h6.616v-22.412h-11.127l-2.405-2.406h15.938v27.066z" />
+    <path d="m26.225 18.467 11.108 14.219v3.945l-12.311-15.916h-6.616v22.412h11.127l2.405 2.406h-15.938v-27.066z" />
   </g>
 </svg>

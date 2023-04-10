@@ -1,21 +1,21 @@
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 680 16" xmlns="http://www.w3.org/2000/svg">
-  <path d="m640 0h40v16h-40z" fill="#b48ead"/>
-  <path d="m600 0h40v16h-40z" fill="#a3be8c"/>
-  <path d="m560 0h40v16h-40z" fill="#ebcb8b"/>
-  <path d="m520 0h40v16h-40z" fill="#d08770"/>
-  <path d="m480 0h40v16h-40z" fill="#bf616a"/>
-  <path d="m440 0h40v16h-40z" fill="#5e81ac"/>
-  <path d="m400 0h40v16h-40z" fill="#81a1c1"/>
-  <path d="m360 0h40v16h-40z" fill="#88c0d0"/>
-  <path d="m320 0h40v16h-40z" fill="#8fbcbb"/>
-  <path d="m280 0h40v16h-40z" fill="#eceff4"/>
-  <path d="m240 0h40v16h-40z" fill="#e5e9f0"/>
-  <path d="m200 0h40v16h-40z" fill="#d8dee9"/>
-  <path d="m160 0h40v16h-40z" fill="#4c566a"/>
-  <path d="m120 0h40v16h-40z" fill="#434c5e"/>
-  <path d="m80 0h40v16h-40z" fill="#3b4252"/>
+  <path d="m640 0h40v16h-40z" fill="#b48ead" />
+  <path d="m600 0h40v16h-40z" fill="#a3be8c" />
+  <path d="m560 0h40v16h-40z" fill="#ebcb8b" />
+  <path d="m520 0h40v16h-40z" fill="#d08770" />
+  <path d="m480 0h40v16h-40z" fill="#bf616a" />
+  <path d="m440 0h40v16h-40z" fill="#5e81ac" />
+  <path d="m400 0h40v16h-40z" fill="#81a1c1" />
+  <path d="m360 0h40v16h-40z" fill="#88c0d0" />
+  <path d="m320 0h40v16h-40z" fill="#8fbcbb" />
+  <path d="m280 0h40v16h-40z" fill="#eceff4" />
+  <path d="m240 0h40v16h-40z" fill="#e5e9f0" />
+  <path d="m200 0h40v16h-40z" fill="#d8dee9" />
+  <path d="m160 0h40v16h-40z" fill="#4c566a" />
+  <path d="m120 0h40v16h-40z" fill="#434c5e" />
+  <path d="m80 0h40v16h-40z" fill="#3b4252" />
   <g fill="#2e3440">
-    <path d="m40 0h40v16h-40z"/>
-    <path d="m0 0h40v16h-40z"/>
+    <path d="m40 0h40v16h-40z" />
+    <path d="m0 0h40v16h-40z" />
   </g>
 </svg>
