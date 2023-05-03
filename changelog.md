@@ -200,7 +200,7 @@ otherwise Markdown elements are not parsed and rendered!
 [2]: https://github.com/nordtheme/assets/compare/dccda737...main
 [3]: https://github.com/nordtheme/assets/commit/dccda737
 [4]: https://github.com/svengreb/tmpl
-[5]: https://github.com/arcticicestudio/nord-docs
+[5]: https://github.com/nordtheme/web
 [6]: https://affinity.help/designer/en-US.lproj/index.html?page=pages/Artboards/artboards_about.html?title=About%20artboards
 [7]: https://github.com/features/discussions
 
